@@ -1,5 +1,5 @@
 ---
-title: "Anthony San Jose DTSC620 Homework 1 - R Notebook"
+title: "R Notebook"
 output:
   word_document: default
 ---
